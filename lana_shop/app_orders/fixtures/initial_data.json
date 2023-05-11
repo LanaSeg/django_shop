@@ -1,0 +1,1 @@
+[{"model": "app_orders.order", "pk": 1, "fields": {"createdAt": "2023-05-04T09:10:36.920Z", "user": 3, "deliveryType": "Обычная", "paymentType": "Банковской картой", "totalCost": "5000.00", "status": "Ожидает оплаты", "city": "Москва", "address": "Тверская 5", "products": [2, 5, 7]}}]
