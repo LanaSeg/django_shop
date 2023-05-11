@@ -60,12 +60,12 @@
 
 #### Корзина
 
-![.jpg](content/корзина.jpg)
+![.jpg](lana_shop/content/корзина.jpg)
 
 #### Поиск-фильр
 
-![.jpg](content/поиск.jpg)
+![.jpg](lana_shop/content/поиск.jpg)
 
 #### Оформление заказа
 
-![.jpg](content/заказ.jpg)
+![.jpg](lana_shop/content/заказ.jpg)
